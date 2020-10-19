@@ -79,11 +79,13 @@
                             
                                 <li><a href="/">Home</a></li>
                             
-                                <li><a href="/positions/">Me</a></li>
-                            
                                 <li><a href="/publications/">Publications</a></li>
                             
                                 <li><a href="/projects/">Projects</a></li>
+                            
+                                <li><a href="/physics/">Physics</a></li>
+                            
+                                <li><a href="/positions/">Me</a></li>
                             
                                 <li><a href="/contact/">Contact</a></li>
                             
@@ -93,9 +95,9 @@
                     
                         <ul class="nav navbar-nav navbar-right">
                             
-                                <li class="navbar-icon"><a href="https://scholar.google.com/citations?user=DDrMMRoAAAAJ&amp;hl=en&amp;oi=ao"><i class="ai ai-google-scholar"></i></a></li>
+                                <li class="navbar-icon"><a href="https://scholar.google.com/citations?user=DDrMMRoAAAAJ&amp;hl=en&amp;oi=ao" target="_blank"><i class="ai ai-google-scholar"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://github.com/vrutten/"><i class="fa fa-github"></i></a></li>
+                                <li class="navbar-icon"><a href="https://github.com/vrutten/" target="_blank"><i class="fa fa-github"></i></a></li>
                             
                         </ul>
                     
@@ -173,7 +175,7 @@
     
 
     <h4><a href="/publications/rutten-cosyne-2019/">Sequential Component Analysis</a></h4>
-    V Rutten, and G Hennequin<br>
+    V Rutten, A Bernacchia, and G Hennequin<br>
     <span style="color: #55cc00;">COSYNE</span>, 2020 &nbsp;
     
     
@@ -208,6 +210,28 @@
 
         
     </body>
-
+    <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$','$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+      }
+    };
+  
+    window.addEventListener('load', (event) => {
+        document.querySelectorAll("mjx-container").forEach(function(x){
+          x.parentElement.classList += 'has-jax'})
+      });
+  
+  </script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
 </html>
 

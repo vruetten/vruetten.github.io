@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vrutten.github.io/physics/</loc>
+    <lastmod>2020-10-19T14:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/</loc>
+    <lastmod>2020-10-19T14:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/intro/</loc>
+    <lastmod>2020-10-19T14:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vrutten.github.io/news/</loc>
     <lastmod>2020-10-17T22:00:01-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://vrutten.github.io/news/test/</loc>
-    <lastmod>2020-10-17T22:00:01-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vrutten.github.io/</loc>
     <lastmod>2020-10-17T22:00:01-04:00</lastmod>
   </url>
   
