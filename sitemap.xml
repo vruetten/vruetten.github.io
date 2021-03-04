@@ -3,134 +3,180 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:51240/poetry/she-is-a-dance-in-flight/</loc>
+    <loc>https://vrutten.github.io/poetry/she-is-a-dance-in-flight/</loc>
     <lastmod>2020-10-26T22:13:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/poetry/</loc>
+    <loc>https://vrutten.github.io/poetry/</loc>
     <lastmod>2020-10-26T22:13:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/</loc>
+    <loc>https://vrutten.github.io/</loc>
     <lastmod>2020-10-26T22:13:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/poetry/with-lovelace-eyes/</loc>
+    <loc>https://vrutten.github.io/davinci/</loc>
     <lastmod>2020-10-25T19:05:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/news/</loc>
+    <loc>https://vrutten.github.io/poetry/with-lovelace-eyes/</loc>
+    <lastmod>2020-10-25T19:05:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/</loc>
+    <lastmod>2020-10-25T18:24:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/01.07_newtons-3-laws/</loc>
+    <lastmod>2020-10-25T18:24:33-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/01.06_exchange-of-momentum/</loc>
+    <lastmod>2020-10-24T16:28:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/01.05_conservation/</loc>
+    <lastmod>2020-10-23T17:17:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/action-reaction/</loc>
+    <lastmod>2020-10-22T13:42:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/motion/</loc>
+    <lastmod>2020-10-22T13:41:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/01.02_mass/</loc>
+    <lastmod>2020-10-20T08:43:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/physics/01.01_what-is-force/</loc>
+    <lastmod>2020-10-19T14:48:29-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/news/</loc>
     <lastmod>2020-10-17T22:00:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/news/test/</loc>
+    <loc>https://vrutten.github.io/news/test/</loc>
     <lastmod>2020-10-17T22:00:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/cambridge-2015/</loc>
+    <loc>https://vrutten.github.io/positions/cambridge-2015/</loc>
     <lastmod>2020-10-17T20:23:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/</loc>
+    <loc>https://vrutten.github.io/positions/</loc>
     <lastmod>2020-10-17T20:23:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/cambridge-2013/</loc>
+    <loc>https://vrutten.github.io/positions/cambridge-2013/</loc>
     <lastmod>2020-10-17T20:21:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/gatsby/</loc>
+    <loc>https://vrutten.github.io/positions/gatsby/</loc>
     <lastmod>2020-10-17T20:05:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/me/</loc>
+    <loc>https://vrutten.github.io/positions/me/</loc>
     <lastmod>2020-10-17T19:23:26-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/cambridge-2012/</loc>
+    <loc>https://vrutten.github.io/positions/cambridge-2012/</loc>
     <lastmod>2020-10-17T18:57:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/positions/janelia-2020/</loc>
+    <loc>https://vrutten.github.io/positions/janelia-2020/</loc>
     <lastmod>2020-10-17T18:56:53-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/</loc>
+    <loc>https://vrutten.github.io/publications/</loc>
     <lastmod>2020-10-17T18:09:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/rutten-cosyne-2019/</loc>
+    <loc>https://vrutten.github.io/publications/rutten-cosyne-2019/</loc>
     <lastmod>2020-10-17T18:09:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/rutten-neurips-2020/</loc>
+    <loc>https://vrutten.github.io/publications/rutten-neurips-2020/</loc>
     <lastmod>2020-10-14T16:40:38+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/baggio-science-advances-2020/</loc>
+    <loc>https://vrutten.github.io/publications/baggio-science-advances-2020/</loc>
     <lastmod>2020-05-27T20:53:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/baggio-cdc-2018/</loc>
+    <loc>https://vrutten.github.io/publications/baggio-arxiv-19/</loc>
+    <lastmod>2019-04-05T10:25:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vrutten.github.io/publications/baggio-cdc-2018/</loc>
     <lastmod>2018-10-26T11:07:17+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/people/</loc>
+    <loc>https://vrutten.github.io/people/</loc>
     <lastmod>2018-03-14T11:22:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/projects/</loc>
+    <loc>https://vrutten.github.io/projects/</loc>
     <lastmod>2018-03-14T11:22:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/projects/the-last-black-box/</loc>
+    <loc>https://vrutten.github.io/projects/the-last-black-box/</loc>
     <lastmod>2018-03-14T11:22:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/people/rutten/</loc>
+    <loc>https://vrutten.github.io/people/rutten/</loc>
     <lastmod>2018-03-14T11:22:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/publications/rutten-cosyne-2017/</loc>
+    <loc>https://vrutten.github.io/publications/rutten-cosyne-2017/</loc>
     <lastmod>2017-12-20T15:07:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:51240/categories/</loc>
+    <loc>https://vrutten.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:51240/contact/</loc>
+    <loc>https://vrutten.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:51240/physics/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:51240/tags/</loc>
+    <loc>https://vrutten.github.io/tags/</loc>
   </url>
   
 </urlset>
